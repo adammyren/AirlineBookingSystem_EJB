@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+#display_box {
+	padding-top:2vh;
+	padding-bottom:1vh;
+	width:50vw;
+	left:25vw;
+	top:20vh;
+}
+
+.display_element {
+	background-color:white;
+	padding:1vh;
+	width:47vw;
+	margin-bottom:1vh;
+	left:1vw;
+}
+
+#back_button {
+	margin:1vw;
+	left:20vw;
+	
+}
+
+h1 {
+	font-size:4vh;
+	height:6vh;
+	top:-1vh;
+}

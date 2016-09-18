@@ -1,0 +1,59 @@
+@CHARSET "UTF-8";
+
+
+.confirm_form {
+	display:inline-block;
+	
+}
+
+#cancel_button {
+	z-index:1;
+	top:30.5vh;
+	left:-29.3vw;
+}
+
+#book_button {
+	top:4vh;
+	left: 15vW;
+	
+}
+
+
+#details_box {
+	width:60vw;
+	left: 20vw;
+	top:10vw;
+}
+
+#payment_box {
+	width:40vw;
+	left: 30vw;
+	top:15vw;
+	padding-bottom:7vh;
+	text-align:center;
+}
+
+.input_field {
+
+}
+
+h1 {
+	font-size: 4vh;
+	height: 6vh;
+	margin-bottom:2vh;
+}
+
+h2 {
+	position:relative;
+	font-size:2.5vh;
+	height:2.5vh;
+	top:0.7vh;
+	margin-top:1vh;
+	left:39vw;
+	color:white;
+	
+}
+
+.flight_element {
+	width:59vw;
+}

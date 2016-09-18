@@ -1,0 +1,100 @@
+@CHARSET "UTF-8";
+
+#report_box {
+	width: 50vw;
+	left: 22vw;
+	height:22vh;
+	top: 18vh;
+	padding-left:10vh;
+	padding-bottom:2vh;
+}
+
+#edit_flight_box {
+	width:40vw;
+	left: 27vw;
+	height: 40vh;
+	top:25vh;
+	padding-left:10vh;
+	padding-bottom:8vh;
+	
+}
+
+#add_flight_box {
+	width:40vw;
+	left: 27vw;
+	height: 40vh;
+	top:30vh;
+	padding-left:10vh;
+	padding-bottom:8vh;
+}
+
+
+
+
+#logout_button {
+	width:14vw;
+	height:8vh;
+	left:43vw;
+	top:13vh;
+	background-color:rgba(255,255,255,0.0);
+	
+}
+
+#edit_flight_button {
+	width:15vw;
+	top:3vh;
+	left:15vw;
+	
+}
+
+#cancel_button {
+	top:3vh;
+	left:4vw;
+	top:-2vh;
+	
+}
+
+#get_information_button {
+	width:15vw;
+	top:3vh;
+	left:9vw;
+	
+}
+
+#add_flight_button {
+	width:15vw;
+	top:3vh;
+	left:9vw;
+}
+
+#logout_button:HOVER {
+	background-color:rgba(255,255,255,0.4);
+}
+
+
+
+.error_box {
+	background-color:#F2635F;
+	padding-left: 3vw;
+	padding-right: 3vw;
+	padding-bottom: 1vh;
+	padding-top:1vh;
+	color:white;
+	width: 40vw;
+	margin-top:5vh;
+	left: 27vw;
+	top: 28vh;
+}
+
+.input_field {
+	width:15vw;
+	
+}
+
+#user_input_field {
+	width:31.4vw;
+	
+}
+h1 {
+	right:5vh;
+}

@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+
+#select_flight_box {
+	width: 60vw;
+	left: 20vw;
+	top:10vh;
+}
+
+h1 {
+	font-size:4vh;
+}
+
+#no_flight_box {
+	width:60vw;
+	left:15vw;
+	padding-left:5vw;
+	padding-right:5vw;
+	padding-top:3vh;
+	padding-bottom:3vh;
+	top:10vh;
+}
+
+#make_new_search {
+	width:10vw;
+	left:45vw;
+	top:15vh;
+}
+
+.flight_element {
+	background-color: white;
+	padding-top:3vh;
+	border-radius:4px;
+	margin-left:1vh;
+	margin-right:1vh;
+	margin-top:1vh;
+	height:7vh;
+	text-align: center;
+}
+
+#next_select_flight {
+	margin-left: 50vw;
+	top:2.2vh;
+}
+
+#cancel_select_flight {
+	top:-5.2vh;
+	margin-left:2vw;
+}
